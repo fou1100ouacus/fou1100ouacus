@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-  <em>  Grind don't stop <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">  </em>
+  <em>  Best project you will ever work on is you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">  </em>
 </h1>
 <p align="center">
   <em>
