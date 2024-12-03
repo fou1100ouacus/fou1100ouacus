@@ -3,7 +3,7 @@
   <em> You are the best project you will ever work on <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">  </em>
 </h1>
  <p align="center">
-  <em>
+  <em>   
     <h4> This is ME,Aya Mohamed, a 4th year undergraduate , A Software Engineer from <a href="[http://sittechno.org/](https://eng-azhar.net/User/FacultyMembers/Profile/134)"> <b> Faculty Of Engineering Alazhar University, </a>.
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
