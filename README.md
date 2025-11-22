@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <em> Unleashing Epic Code Adventures in the Tech Galaxy!  🚀</em>
+  <em> الصبر يا رب  🚀</em>
 </h1>  
 <p align="center">
   <em>  
