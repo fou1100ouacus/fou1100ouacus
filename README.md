@@ -21,7 +21,6 @@
   <em>From front-end magic to back-end mastery,  scalable applications. Competitive programming? I live for the thrill of algorithms and optimization!</em><br>  
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>  
   <i><b>My GitHub Odyssey</b></i><br>  
-  <img src="https://github-readme-stats.vercel.app/api?username=fou1100ouacus&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Stats" style="margin: 10px;"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fou1100ouacus&show_icons=true&layout=compact&theme=great-gatsby" alt="Top Languages" style="margin: 10px;"/>
 </p>
 
