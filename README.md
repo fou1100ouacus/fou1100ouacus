@@ -1,6 +1,5 @@
 <h1 align="center">  
-  الصبر يا رب 🤷‍♂️
-</h1>  
+The Secret Lies in Concentration 🎶⌚ </h1>  
 <p align="center">
   <em>  
     Hey there! I'm <b>Aya Mohamed</b>, a <b>final-year Software Engineering rockstar</b> at <a href="https://eng-azhar.net/User/FacultyMembers/Profile/134"><b>Al-Azhar University, Faculty of Engineering</b></a>.  
