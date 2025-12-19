@@ -17,7 +17,7 @@ The Secret Lies in Concentration 🎶⌚ </h1>
 
 <p align="center">
   <b>🔥 My Tech Arsenal 🔥</b><br>  
-  <em>From front-end magic to back-end mastery,  scalable applications. Competitive programming? </em><br>  
+  <em>From front-end magic to back-end mastery </em><br>  
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>  
   <i><b>My GitHub Odyssey</b></i><br>  
 </p>
