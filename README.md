@@ -8,7 +8,7 @@ The Secret Lies in Concentration 🎶⌚ </h1>
     My journey? It's all about <b>creating</b>, <b>innovating</b>, and <b>conquering</b> the tech world, one line of code at a time! I'm driven by an unyielding desire to <b>push boundaries</b>, <b>master new skills</b>, and <b>leave a mark</b> in the digital universe <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.  
   </em>  
   <br>  
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />  
+  <img  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />  
   <b><i>Code. Create. Conquer. I'm ALL IN for the Tech Revolution!</i></b>  
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
