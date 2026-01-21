@@ -1,6 +1,6 @@
 <h1 align="center">  
 The Secret Lies in Concentration 🎶⌚ </h1>  
-<p align="center">
+<p align="center"> 
   <em>  
     Hey there! I'm <b>Aya Mohamed</b>, a <b>final-year Software Engineering rockstar</b> at <a href="https://eng-azhar.net/User/FacultyMembers/Profile/134"><b>Al-Azhar University, Faculty of Engineering</b></a>.  
     I'm a <b>Full-Stack Developer</b> with a fiery passion for building innovative solutions <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b> who thrives on solving complex challenges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">.  
