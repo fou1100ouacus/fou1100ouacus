@@ -26,10 +26,6 @@
   C# • ASP.NET Core • EF Core • Blazor • MVC • REST APIs • Microservices • SQL Server
 </p>
 
-<p align="center">
-  <strong>Tools & Practices</strong><br>
-  Git • xUnit (TDD) • Agile • OpenCV/MediaPipe • Verilog/FPGA basics
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="45px" alt="GitHub activity" />
@@ -42,10 +38,6 @@
 <hr>
 
 <!-- ================= ABOUT ME / OPPORTUNITIES ================= -->
-<p align="center">
-  <b>Ready for My First Role 🚀</b><br><br>
-  <em>Recent Electrical Systems & Computer Engineering graduate</em>
-</p>
 
 <p align="center">
   <strong>What I bring to the team:</strong>
@@ -56,7 +48,6 @@
   <li>✦ Clean, testable & maintainable code (TDD enthusiast)</li>
   <li>✦ Fast learning & strong problem-solving skills</li>
   <li>✦ Passion for building scalable .NET applications</li>
-  <li>✦ Experience in Agile environments + clear communication</li>
   <li>✦ Open-source contributor & lifelong learner</li>
 </ul>
 
