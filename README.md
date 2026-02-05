@@ -1,14 +1,12 @@
 <h1 align="center">
-  The Secret Lies in Concentration 🎯🔥⌛
+  The Secret Lies in Concentration 🎯⌛
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=300&color=00F7FF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Aya;Senior+Software+Engineer+Student+🔥;The+more+you+know%2C+the+less+you+know" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="280" alt="Animated developer coding" />
-</p>
+
 
 <hr>
 
