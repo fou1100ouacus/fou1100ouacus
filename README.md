@@ -1,29 +1,75 @@
-<h1 align="center">  
-The Secret Lies in Concentration 🎶⌚ </h1>  
-<p align="center">           
-  <em>  
-    Hey there! I'm <b>Aya Mohamed</b>, a <b>final-year Software Engineering rockstar</b> at <a href="https://eng-azhar.net/User/FacultyMembers/Profile/134"><b>Al-Azhar University, Faculty of Engineering</b></a>.  
-    I'm a <b>Full-Stack Developer</b> with a fiery passion for building innovative solutions <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b> who thrives on solving complex challenges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">.  
-    <br>  
-    My journey? It's all about <b>creating</b>, <b>innovating</b>, and <b>conquering</b> the tech world, one line of code at a time! I'm driven by an unyielding desire to <b>push boundaries</b>, <b>master new skills</b>, and <b>leave a mark</b> in the digital universe <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.  
-  </em>  
-  <br>  
-  <img  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />  
-  <b><i>Code. Create. Conquer. I'm ALL IN for the Tech Revolution!</i></b>  
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<h1 align="center">
+  The Secret Lies in Concentration 🎯🔥⌛
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=300&color=00F7FF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Aya;Senior+Software+Engineer+Student+🔥;The+more+you+know%2C+the+less+you+know" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="280" alt="Animated developer coding" />
 </p>
 
 <hr>
 
+<!-- ================= TECH STACK ================= -->
 <p align="center">
-  <b>🔥 My Tech Arsenal 🔥</b><br>  
-  <em>From front-end magic to back-end mastery </em><br>  
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>  
-  <i><b>My GitHub Odyssey</b></i><br>  
+  <b>⚡ TECH STACK & SKILLS ⚡</b><br>
+  <em>Modern .NET + strong computer science foundation</em>
 </p>
+
+<p align="center">
+  <!-- Skill icons (uncomment when ready) -->
+  <!-- https://skillicons.dev/icons?i=cs,dotnet,blazor,aspnet,sqlserver,git,github,postman,visualstudio,xunit -->
+</p>
+
+<p align="center">
+  <strong>.NET Core Stack</strong><br>
+  C# • ASP.NET Core • EF Core • Blazor • MVC • REST APIs • Microservices • SQL Server
+</p>
+
+<p align="center">
+  <strong>Tools & Practices</strong><br>
+  Git • xUnit (TDD) • Agile • OpenCV/MediaPipe • Verilog/FPGA basics
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="45px" alt="GitHub activity" />
+  <b>GitHub Journey</b><br>
+  <em>Every commit is progress. Every project — a step toward production-quality code.</em>
+</p>
+
+<!-- You can add stats cards here -->
 
 <hr>
 
+<!-- ================= ABOUT ME / OPPORTUNITIES ================= -->
 <p align="center">
-  <em>Ready to collaborate, innovate, and take on the next big challenge! Let's build something <b>EPIC</b> together! 🌟</em>
+  <b>Ready for My First Role 🚀</b><br><br>
+  <em>Recent Electrical Systems & Computer Engineering graduate</em>
 </p>
+
+<p align="center">
+  <strong>What I bring to the team:</strong>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" alt="Happy bird" />
+</p>
+
+<ul style="list-style: none; display: inline-block; text-align: left; margin: 20px auto; padding: 0;">
+  <li>✦ Clean, testable & maintainable code (TDD enthusiast)</li>
+  <li>✦ Fast learning & strong problem-solving skills</li>
+  <li>✦ Passion for building scalable .NET applications</li>
+  <li>✦ Experience in Agile environments + clear communication</li>
+  <li>✦ Open-source contributor & lifelong learner</li>
+</ul>
+
+<p align="center">
+  <strong>Open to:</strong><br>
+  full-time roles • internships • hackathons • collaborations
+</p>
+
+<p align="center" style="margin-top: 28px; font-size: 1.1em;">
+  <b>Let's build great software together!</b><br>
+  Feel free to reach out — I'm ready to contribute 💻
+</p>
+
+<hr>
