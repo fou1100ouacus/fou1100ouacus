@@ -1,5 +1,8 @@
 <h1 align="center">
-  The Secret Lies in Concentration 🎯⌛
+   The Secret Lies in Concentration 
+  
+  "Don't focus on the mess, focus on the masterpiece hidden inside it"
+
 </h1>
 
 <p align="center">
