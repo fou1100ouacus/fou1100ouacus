@@ -155,13 +155,6 @@
 
 <!-- ================= CONNECT ================= -->
 
-<h2 align="center">🤝 Let's Build Something Great</h2>
-
-<p align="center">
-  I'm interested in building backend systems,
-  learning new technologies, and collaborating on challenging projects.
-</p>
-
 <p align="center">
   <strong>Let's build clean, scalable, and reliable software together. 💻⚡</strong>
 </p>
