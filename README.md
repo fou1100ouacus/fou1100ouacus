@@ -12,6 +12,7 @@
 
 <hr>
 
+
 <!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">👩‍💻 About Me</h2>
@@ -41,7 +42,7 @@
 <h2 align="center">⚡ Backend .NET Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postman,sqlserver,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postman,docker&perline=8" />
 </p>
 
 <h3 align="center">💻 Backend Development</h3>
